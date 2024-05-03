@@ -1,2 +1,2 @@
-# Gamehub
-This website is for... educational purposes...
+# Lee's Gamehub
+cool website, all creds to tylerpalko.
